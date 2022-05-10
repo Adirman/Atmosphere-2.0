@@ -20,6 +20,7 @@
     "node-fetch": "^2.0.0",
     "node-static": "^0.7.11",
     "parse5": "^6.0.1",
+    "particles.js": "^2.0.0",
     "walk-parse5": "^2.0.0",
     "webpack": "^5.69.1"
   },
